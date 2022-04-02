@@ -15,7 +15,7 @@ value=$("pwd")
 echo "switched to tmp dir path: $value"
 echo "2 ------------------------------------------------------------------"
 # 2) Change to the previous directory
-cd ../
+cd -
 echo "Change to the previous directory"
 pwd
 echo "3 ------------------------------------------------------------------"
