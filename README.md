@@ -67,6 +67,7 @@ git merge upstream/main
 ```
 
 ### [Github Docs](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github) for Syncing
+####After making your changes successfully you are ready to commit your changes
 
 **8.** Stage your changes.
 
