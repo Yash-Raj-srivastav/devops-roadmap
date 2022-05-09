@@ -149,3 +149,4 @@ This project exists thanks to all the people who contribute — [contribute](CON
 <a href = "https://github.com/Yash-Raj-srivastav/devops-roadmap/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=Yash-Raj-srivastav/devops-roadmap"/>
 </a>
+<hr>
