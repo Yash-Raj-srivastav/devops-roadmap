@@ -114,10 +114,6 @@ or
 
 ## All the best! 🥇
 
-## 🛡️ License
-
-Contribute-To-This-Project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
-
 ## Connect with me
   <a href="https://twitter.com/YashRSrivastav">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
